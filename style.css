@@ -8,6 +8,7 @@ body{margin:0;
         padding: 1em;
         background-color:#219EFB;
         margin:0;
+        width:100%;
         }
 
 .image{width: 50%;
@@ -38,7 +39,8 @@ body{margin:0;
 
 .first{display: flex;
     margin: 0px;
-    background-color: rgb(122, 252, 252);}
+    background-color: rgb(122, 252, 252);
+    width:100%}
 
 .first-half{width: 50%;
             ;
@@ -84,7 +86,8 @@ padding-left:50px;}
 .mid{background-image: url(images/bg2.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
-    display: flex;}
+    display: flex;
+    width:100%}
 .mid-first-half{width: 50%;
         }
 .mid-first-half img{width: 100%;}
@@ -93,7 +96,8 @@ padding-left:50px;}
 
 .recipe{display: inline-block;
         padding-top: 10px;
-        background-color: rgb(122, 252, 252);}
+        background-color: rgb(122, 252, 252);
+        width:100%;}
 .description{display: inline;
         text-align: center;
         }
